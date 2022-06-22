@@ -1,6 +1,6 @@
 # Bahman Soltani Customer
 
-The front end project for <a href="https://github.com/vohuman/AdminBahmanSoltani">customer project</a> to import contacts and create order.
+The front end project for <a href="https://github.com/vohuman/AdminBahmanSoltani">admin project</a> to import contacts and create order.
 
 ## Description
 
