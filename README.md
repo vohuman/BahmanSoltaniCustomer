@@ -70,3 +70,4 @@ ASP.NET MVC 5, jQUery, C# 5, HTML, CSS, IIS, SQL SERVER, JavaScript
 ## Acknowledgments
 
 * [bootstrap](https://github.com/twbs/bootstrap)
+* [PagedList](https://github.com/troygoode/PagedList)
