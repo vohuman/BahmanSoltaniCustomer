@@ -61,9 +61,6 @@ ASP.NET MVC 5, jQUery, C# 5, HTML, CSS, IIS, SQL SERVER, JavaScript
 
 ## Version History
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit history](https://github.com/vohuman/AdminBahmanSoltani/graphs/commit-activity)
 * 0.1
     * Initial Release
 
