@@ -42,6 +42,8 @@ ASP.NET MVC 5, jQUery, C# 5, HTML, CSS, IIS, SQL SERVER, JavaScript
 * Microsoft.Web.Infrastructure 1.0.0
 * Modernizr 2.8.3
 * Newtonsoft.Json 12.0.2
+* PagedList 1.17.0
+* PagedList.Mvc 4.5.0
 * System.Buffers 4.5.1
 * System.Memory 4.5.4
 * System.Numerics.Vectors 4.5.0
