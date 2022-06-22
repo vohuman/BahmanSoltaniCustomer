@@ -22,7 +22,7 @@ Clone the repo: ```git clone https://github.com/vohuman/BahmanSoltaniCustomer.gi
 
 ## Technologies
 
-ASP.NET MVC 5, jQUery, C# 5, HTML, CSS, IIS, SQL SERVER, JavaScript
+ASP.NET MVC 5, jQuery, C# 5, HTML, CSS, IIS, SQL SERVER, JavaScript
 
 ### Dependencies
 
